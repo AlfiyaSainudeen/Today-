@@ -1,0 +1,58 @@
+.email-form {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: #b4cef0;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .email-form h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .email-form p {
+    font-size: 14px;
+    color: #666666;
+    margin-bottom: 20px;
+  }
+  
+  .email-form label {
+    display: block;
+    margin-bottom: 5px;
+text-align: left;
+font-weight:500;
+  }
+  
+  .email-form input,
+  .email-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+  }
+  
+  .email-form textarea {
+    resize: none;
+    height: 100px;
+  }
+  
+  .email-form button {
+    background-color: #007bff;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .email-form button:hover {
+    background-color: #0056b3;
+  }
+  form{
+    /* border: 2px solid black; */
+    
+  }
